@@ -17,7 +17,6 @@ To ask **new questions**, click [here](https://github.com/hukai916/OneStopRNAseq
 6. update workflow image;
 7. fix "go back" button.
 </details>
-
 <details markdown="1">
 <summary>Update: V.1.0.1 (2022/03/17)</summary>
 
