@@ -1,5 +1,7 @@
 # OneStopRNAseq
 
+Pls use https://github.com/radio1988/OneStopRNAseq ! This one is duplicated!
+
 This is the tracking site (questions & versions) for [OneStopRNAseq](https://mccb.umassmed.edu/OneStopRNAseq/).
 
 To view **previous questions**, click [here](https://github.com/hukai916/OneStopRNAseq/issues?q=is%3Aissue+is%3Aclosed).
